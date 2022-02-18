@@ -1,4 +1,4 @@
-<h2 align="center">📖 e.learning backend</h2>
+<h2 align="center">📖 E-learning Backend</h2>
 <blockquote align="center">E.learning's backend repository, a mobile application focused on education that offers courses.</blockquote>
 
 
